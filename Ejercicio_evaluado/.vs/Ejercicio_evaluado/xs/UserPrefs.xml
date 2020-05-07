@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D0201516-40CC-4E70-8693-F7676D828BFC}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ejercicio__evaluado FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persona.cs">
+    <Files>
+      <File FileName="Program.cs" Line="5" Column="1" />
+      <File FileName="Persona.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ejercicio_evaluado" expanded="True">
+            <Node name="Ejercicio_evaluado" expanded="True">
+              <Node name="Persona.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

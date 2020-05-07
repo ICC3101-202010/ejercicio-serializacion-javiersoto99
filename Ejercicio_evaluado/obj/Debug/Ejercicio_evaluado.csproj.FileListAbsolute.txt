@@ -1,0 +1,5 @@
+/Users/javier/Projects/Ejercicio_evaluado/bin/Debug/Ejercicio_evaluado.exe
+/Users/javier/Projects/Ejercicio_evaluado/bin/Debug/Ejercicio_evaluado.pdb
+/Users/javier/Projects/Ejercicio_evaluado/obj/Debug/Ejercicio_evaluado.csprojAssemblyReference.cache
+/Users/javier/Projects/Ejercicio_evaluado/obj/Debug/Ejercicio_evaluado.exe
+/Users/javier/Projects/Ejercicio_evaluado/obj/Debug/Ejercicio_evaluado.pdb
